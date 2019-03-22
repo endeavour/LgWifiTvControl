@@ -1,4 +1,4 @@
-LG TV WiFi Controller
+# LG TV WiFi Controller
 
 This project is designed to expose the RS232 interface on many LG TVs and Projectors over MQTT. This means you can control you TV via your favourite home automation tools.
 
