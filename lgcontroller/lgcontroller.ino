@@ -12,9 +12,9 @@ const int txPin = D1;
 const char *ssid = "foo";
 const char *password = "password";
 const char *mqtt_server = "192.168.1.1";
-const char *announce_topic = "/livingroom/tv/announce";
-const char *request_topic = "/livingroom/tv/request";
-const char *response_topic = "/livingroom/tv/response";
+const char *announce_topic = "livingroom/tv/announce";
+const char *request_topic = "livingroom/tv/request";
+const char *response_topic = "livingroom/tv/response";
 
 
 WiFiClient wifiClient;
